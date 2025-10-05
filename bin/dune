@@ -1,0 +1,8 @@
+(executable
+ (public_name try-caqti-eio)
+ (name main)
+ (libraries
+  try_caqti_eio
+  eio
+  eio_main
+  caqti-eio))

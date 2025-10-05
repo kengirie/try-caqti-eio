@@ -1,0 +1,9 @@
+(library
+ (name try_caqti_eio)
+ (libraries
+  eio
+  caqti
+  caqti-eio
+  caqti-eio.unix
+  caqti-driver-sqlite3
+  uri))

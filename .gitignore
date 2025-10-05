@@ -1,0 +1,28 @@
+# Dune build artifacts
+_build/
+*.install
+
+# OCaml compiler outputs
+*.annot
+*.cmi
+*.cmo
+*.cma
+*.cmt
+*.cmti
+*.cmx
+*.cmxa
+*.cmxs
+*.o
+*.a
+*.out
+*.byte
+*.native
+
+# Toplevel and tooling state
+.merlin
+.utop-history
+
+# Local opam switches
+_opam/
+
+*.sqlite3
