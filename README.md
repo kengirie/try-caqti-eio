@@ -1,6 +1,7 @@
 # try-caqti-eio の使い方
 
 このプロジェクトは `caqti-eio` と SQLite3 を使って、Eio ランタイム上で人事 / KPI 管理の ER 図を実装したサンプルです。
+ER 図のテキスト表現（Mermaid）は `docs/er-diagram.md` にまとめています。
 
 ## ER 図から拾ったテーブル概要
 
